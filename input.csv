@@ -1,0 +1,21 @@
+Path to '.fits'-file,Filename of output-file (attachment '.png' not needed),Layer [1-6],Colourmap Minimum,Colourmap Maximum,Contour instead of [y] or on top of [yy] heatmap [y/yy/n],Colour of Contour Lines,List of Contour Intervals [.. .. ..]
+/home/damorim/Downloads/COMPASS.MLM.O0400033.fits,COMPASS.MLM.O0400033,1,0,20,n,purple,0 1 2 3 5 10 20
+/home/damorim/Downloads/COMPASS.MLM.O0400048.fits,COMPASS.MLM.O0400048,1,0,60,n,purple,0 1 2 3 5 10 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
