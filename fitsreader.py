@@ -1,4 +1,4 @@
-###basic programme for reading and displaying .fits files
+###basic program for reading and displaying .fits files
 
 ##importing packages
 import matplotlib.pyplot as plt
@@ -129,11 +129,11 @@ def start_plotting():
         aitoff_layer(layer_number=ls[2],filename=ls[1],path_or_url=ls[0],local_file=True,cont=ls[5],contco=ls[6],lis=ls[7],safe=True,cmin=ls[4],cmax=ls[3])
         ls=[]
     
-##runs when programme is initiated
+##runs when program is initiated
 def start_code():
     print('''
 ===========================================================================
-You have initiated the programme. The information entered into the files 
+You have initiated the program. The information entered into the files 
 'input.csv' and 'sources.csv' is being processed and the resulting images 
 are being saved. Check the file 'help.txt'for more information!
 ===========================================================================

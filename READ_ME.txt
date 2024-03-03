@@ -1,4 +1,4 @@
-
+(David Amorim, 2019)
 
                         DESCRIPTION: 
     This program transforms the data of a '.fits'-file 
